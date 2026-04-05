@@ -13,6 +13,7 @@ DURATION: 6 WEEKS
 MENTOR: NEELA SANTOSH
 
 DESCRIPTION:
+
 This project analyzes a Brazil-based e-commerce dataset to derive business insights using data visualization and analytical techniques. The objective is to evaluate sales performance, understand customer behavior, and identify regional trends. Using Microsoft Power BI and Python, the data was cleaned, transformed, and used to build an interactive dashboard.
 
 The analysis includes key metrics such as total sales, total orders, total customers, and average order value, along with visualizations like monthly revenue trends, top product categories, state-wise order distribution, and payment preferences.
